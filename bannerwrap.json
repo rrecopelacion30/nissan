@@ -1,0 +1,63 @@
+{
+    "themeBannerWrapper": {
+      "themeBannerList": [
+        {
+          "themeBannerItem": {
+            "themeBannerCard": {
+              "themeBannerImage": {
+                "v_pc": {
+                  "src": "https://rparts-sites.s3.amazonaws.com/42394aa61e7f417307148d55124bba0d/design/nissan7.webp",
+                  "alt": "Free Shipping on all Parts and Accessories Nissan Img"
+                },
+                "v_sp": {
+                  "src": "https://rparts-sites.s3.amazonaws.com/42394aa61e7f417307148d55124bba0d/design/nissan7_sp.webp",
+                  "alt": "Free Shipping on all Parts and Accessories Nissan Img"
+                }
+              },
+              "themeBannerContent": {
+                "title": "Free Shipping on all Parts and Accessories Robert",
+                "description": "Celebrate the Launch of the New Nissan Parts and Accessories Site with Free Shipping all October.",
+                "terms": {
+                  "link": "javascript: openVehiclePickerRedirect(null, null, null, null, null, null);",
+                  "details": "Valid online from 10/1/2024 through 10/31/2024 at participating U.S. Nissan dealers..."
+                },
+                "button": {
+                  "link": "#",
+                  "text": "Shop Now"
+                }
+              }
+            }
+          }
+        },
+        {
+          "themeBannerItem": {
+            "themeBannerCard": {
+              "themeBannerImage": {
+                "v_pc": {
+                  "src": "https://rparts-sites.s3.amazonaws.com/42394aa61e7f417307148d55124bba0d/design/nissan8.webp",
+                  "alt": "Nissan Pet Accessories: Image of owner and dog with carrier and ramp"
+                },
+                "v_sp": {
+                  "src": "https://rparts-sites.s3.amazonaws.com/42394aa61e7f417307148d55124bba0d/design/nissan8_sp.webp",
+                  "alt": "Nissan Pet Accessories: Image of owner and dog with carrier and ramp"
+                }
+              },
+              "themeBannerContent": {
+                "title": "Save 15% on Pet Accessories with code Pet15!",
+                "description": "Nissan has a full portfolio of Genuine Nissan Pet Accessories...",
+                "terms": {
+                  "link": "#",
+                  "details": "Promotion valid online from 10/1/2024 through 10/31/2024 at participating U.S. Nissan dealers only..."
+                },
+                "button": {
+                  "link": "/accessories/pet-accessories",
+                  "text": "Shop Now"
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+  
