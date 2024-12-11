@@ -15,14 +15,14 @@
                 }
               },
               "themeBannerContent": {
-                "title": "Free Shipping on all Parts and Accessories Robert and Shien",
+                "title": "Free Shipping on all Parts and Accessories Robert and Shien New Update",
                 "description": "Celebrate the Launch of the New Nissan Parts and Accessories Site with Free Shipping all October.",
                 "terms": {
                   "link": "javascript: openVehiclePickerRedirect(null, null, null, null, null, null);",
                   "details": "Valid online from 10/1/2024 through 10/31/2024 at participating U.S. Nissan dealers..."
                 },
                 "button": {
-                  "link": "#",
+                  "link": "javascript:openVehiclePicker();",
                   "text": "Shop Now"
                 }
               }
@@ -43,7 +43,7 @@
                 }
               },
               "themeBannerContent": {
-                "title": "Save 15% on Pet Accessories with code Pet15!",
+                "title": "Save 15% on Pet Accessories with code Pet15! New Update",
                 "description": "Nissan has a full portfolio of Genuine Nissan Pet Accessories...",
                 "terms": {
                   "link": "#",
